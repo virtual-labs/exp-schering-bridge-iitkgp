@@ -5,12 +5,12 @@ To Determine the Capacitance of an unknown Capacitor.
 ## Theory
  
 
-<p align="center">
+<div align="center">
 
 ![Rm501 Figure](images/schering.jpg)
 
 ***Fig 1: Circuit diagram for measurement of Capacitance by Schering Bridge***
-</p>
+</div>
 Let, `C_1`=capacitor whose capacitance is to be measured.
        `r_1`= a series resistance representing the loss in the capacitor `C_1`.
        `C_2`= a standard capacitor.
