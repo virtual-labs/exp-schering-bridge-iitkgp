@@ -1,12 +1,12 @@
 ## Procedure
 
 
-<p align="center">
+<div align="center">
 
  ![Rm501 Figure](images/schering.jpg)
 
 ***Fig. 1. Circuit digram of experimental set-up for Capacitance measurement by Schering Bridge.***
-</p>
+</div>
 1)  Apply Supply voltage from the signal generator with arbitrary frequency. ( V =3v). Also set the unknown Capacitance value from 'Set Capacitor Value' tab.
  </br>
 2)  Then switch on the supply to get millivoltmeter deflection.
