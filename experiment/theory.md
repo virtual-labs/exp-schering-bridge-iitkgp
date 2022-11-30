@@ -12,6 +12,7 @@ To Determine the Capacitance of an unknown Capacitor.
 ***Fig 1: Circuit diagram for measurement of Capacitance by Schering Bridge***
 </div>
 Let, `C_1`=capacitor whose capacitance is to be measured.
+
        `r_1`= a series resistance representing the loss in the capacitor `C_1`.
        `C_2`= a standard capacitor.
        `R_3`= a non inductive resistance.
@@ -32,6 +33,7 @@ Or Equating the real and imaginary terms in equa. (2), we obtain
 `C_1 = R_4*C_2/R_3......(4)`
  </p>
 And, Two independent balance equations (3) and (4) are obatined if `C_4` and `R_4` are chosen as the variable elements.
+
 Dissipation factor
 <p align="center">
 `D_1 = omegaC_1r_1......(5)`
