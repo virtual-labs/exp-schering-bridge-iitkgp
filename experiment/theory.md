@@ -12,17 +12,18 @@ To Determine the Capacitance of an unknown Capacitor.
 ***Fig 1: Circuit diagram for measurement of Capacitance by Schering Bridge***
 </div>
 Let,
-   C<sub>1</sub>=capacitor whose capacitance is to be measured.
+
+   C<sub>1</sub>=capacitor whose capacitance is to be measured. <br>
    
-   r<sub>1</sub>= a series resistance representing the loss in the capacitor C<sub>1</sub>.
+   r<sub>1</sub>= a series resistance representing the loss in the capacitor C<sub>1</sub>. <br>
    
-   C<sub>2</sub>= a standard capacitor.
+   C<sub>2</sub>= a standard capacitor. <br>
    
-   R<sub>3</sub>= a non inductive resistance.
+   R<sub>3</sub>= a non inductive resistance. <br>
    
-   C<sub>4</sub>= a variable capacitor.
+   C<sub>4</sub>= a variable capacitor. <br>
    
-   R<sub>4</sub>= a variable non inductive resistance.
+   R<sub>4</sub>= a variable non inductive resistance. <br>
    
 At balance,  
 <p align="center">
@@ -46,7 +47,7 @@ $$ r_1 = R_3*\frac{C_4}{C_2}......(3) $$
 $$ C_1 = R_4* \frac{C_2}{R_3}......(4) $$
  
  </p>
-And, Two independent balance equations (3) and (4) are obatined if `C_4` and `R_4` are chosen as the variable elements.
+And, Two independent balance equations (3) and (4) are obatined if C<sub>4</sub> and R<sub>4</sub> are chosen as the variable elements.
 
 Dissipation factor
 <p align="center">
