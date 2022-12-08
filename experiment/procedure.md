@@ -19,8 +19,6 @@
  </br>
 6) Also observe the Dissipation factor of the unknwown capacitor which is defined as <br>
 
-
-$$ \omega *C*r \  Where, \omega=2 \pi f $$
-
+$$ \omega * C * r \  Where, \omega = 2 \pi f $$
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
