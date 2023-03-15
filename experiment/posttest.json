@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A Maxwell’s inductive bridge shown in figure below is used to measure an unknown inductance in comparison with known inductance. The values at balance R<sub>2</sub>= 590Ω, R<sub>4</sub>=60Ω, R<sub>3</sub>= 100Ω, r<sub>2</sub>=10Ω and L<sub>2</sub>= 2mH. Calculate the values of R<sub>1</sub> and L<sub>1</sub> . Calculate also the Q-factor of the coil if frequency is 1000Hz.<br/><p style=\"text-align:center\"><img src=\"images/quiz2.jpg\" style=\"width:460px;height:320px\"></p> ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "R<sub>1</sub>=1000Ω,L<sub>1</sub>=3.33mH and Q-factor=0.021",
+        "b": "R<sub>1</sub>=100Ω,L<sub>1</sub>=4.33mH and Q-factor=0.011",
+        "c": "R<sub>1</sub>=1020Ω,L<sub>1</sub>=5.33mH and Q-factor=0.0328",
+        "d": "R<sub>1</sub>=10Ω,L<sub>1</sub>=6.33mH and Q-factor=0.0834"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Relative permittivity can be measured by which bridge?<br/> ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Owen's bridge",
+        "b": "Wheatstones bridge",
+        "c": "De Sauty's modified bridge",
+        "d": "schering bridge"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Null type recorders are<br/> ",
+      "answers": {
+        "a": "Potentiometric recorder",
+        "b": "LVDT recorders",
+        "c": "Bridge recorders",
+        "d": "Any one of the above"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
