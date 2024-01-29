@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Commercial Schering bridge can be used for the measurement of capacitances from _____________",
+      "answers": {
+        "a": "10pF to 0.1nF",
+        "b": "100pF to 1μF",
+        "c": "50nF to 10mF",
+        "d": "25mF to 5F"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Relative permittivity can be measured by which bridge?<br/> ",
+      "answers": {
+        "a": "Owen's bridge",
+        "b": "Wheatstones bridge",
+        "c": "De Sauty's modified bridge",
+        "d": "schering bridge"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Null type recorders are<br/> ",
+      "answers": {
+        "a": "Potentiometric recorder",
+        "b": "LVDT recorders",
+        "c": "Bridge recorders",
+        "d": "Any one of the above"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
