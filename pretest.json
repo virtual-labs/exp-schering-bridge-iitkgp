@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A schering Bridge consists of the following: Arm ab-unknown capacitance with internal resistance which has to be measured. Arm ad- known capacitor value is 1.5uF. Arm bc- non inductive resistance value is 130 Ω. Arm dc-a known capacitor value is 3uF with known reactive resistance 260 Ω.Calculate the values of C<sub>1</sub> and it's internal resistance R<sub>1</sub>.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.jpg\" style=\"width:460px;height:320px\"></p>",
+      "answers": {
+        "a": "R<sub>1</sub>=260Ω,C<sub>1</sub>=4uF",
+        "b": "R<sub>1</sub>=160Ω,C<sub>1</sub>=6uF",
+        "c": "R<sub>1</sub>=260Ω,C<sub>1</sub>=3uF",
+        "d": "R<sub>1</sub>=360Ω,C<sub>1</sub>=7uF"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which instrument measures the total quantity of electricity delivered in a particular time?<br/> ",
+      "answers": {
+        "a": "Absolute",
+        "b": "Integrating",
+        "c": "Indicating",
+        "d": "Recordimg"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
